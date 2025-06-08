@@ -12,8 +12,7 @@ A simple weather forecast web app built with React and Vite.
 - Vite
 - CSS
 
-## 🔗 Live Demo
-[View Live](https://khushi1k801.github.io/weather-api/)
+
 
 ## 📂 Run Locally
 ```bash
