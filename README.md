@@ -16,7 +16,7 @@ A simple weather forecast web app built with React and Vite.
 
 ## 📂 Run Locally
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/khushi1k801/weather-api.git
 cd your-repo
 npm install
 npm run dev
